@@ -1,2 +1,6 @@
-# Interactive-Mapping-Application
-Interactive web mapping project using Leaflet.js and a reverse geocoding API. The application generates random coordinates within a set range, plots them on a map of the U.S., and retrieves locality information for each point using an external API.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/KC3ZCZ8I)
+# INST377-Lab
+
+# Name (Please Input your name): Nicholas Stevenson
+
+# Comments: 
