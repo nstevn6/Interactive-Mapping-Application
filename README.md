@@ -1,6 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/KC3ZCZ8I)
-# INST377-Lab
-
-# Name (Please Input your name): Nicholas Stevenson
-
-# Comments: 
+This project is an interactive web mapping application built using Leaflet.js. It generates random geographic coordinates within a defined range, plots them on a map of the United States, and uses a reverse geocoding API to retrieve and display location information for each point.
